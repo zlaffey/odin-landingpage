@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: darksalmon;
+}
+
+.dark-bg {
+	background-color: #1f2937;
+}
+
+.main-text {
+	size: 48px;
+	font-weight: 800;
+	color: #f9faf8;
+}
+
+.secondary-text {
+	size: 18px;
+	color: #e5e7eb;
+}
+
+.logo-text {
+	size: 24px;
+	color: #f9faf8;
+}
+
+.cta {
+	color: #3882f6;
+}
+.info-text {
+	size: 36px;
+	font-weight: 800;
+	color: #1f2937;
+}
+
+.quote {
+	background-color: #1f2937;
+	size: 36px;
+	font-style: italic;
+	font-weight: 300;
+	color: #1f2937;
+}
